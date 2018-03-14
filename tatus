@@ -1,0 +1,62 @@
+[33mcommit c6ae8418e202fe05174f69791d5abc601190198c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Navajyothsna <navajyothsna.r@gmail.com>
+Date:   Wed Mar 14 16:08:18 2018 +0800
+
+    change header
+
+[33mcommit d6946de932fdd9d95d4f56c7a803d4afbfe6c1e4[m[33m ([m[1;32mheading-update[m[33m)[m
+Merge: 467f42c 375e6f2
+Author: Navajyothsna <navajyothsna.r@gmail.com>
+Date:   Wed Mar 14 15:54:48 2018 +0800
+
+    add footer content
+
+[33mcommit 375e6f258e91e935c4c6666651febe1745f665ab[m[33m ([m[1;32msidebar[m[33m)[m
+Merge: f79d332 8057e76
+Author: Navajyothsna <navajyothsna.r@gmail.com>
+Date:   Wed Mar 14 15:54:08 2018 +0800
+
+    add footer content
+
+[33mcommit 467f42c1a7211cb6a994bc09f0344285d2bbb797[m
+Merge: 8057e76 f79d332
+Author: Navajyothsna <navajyothsna.r@gmail.com>
+Date:   Wed Mar 14 15:52:46 2018 +0800
+
+    add footer content
+
+[33mcommit 8057e761915a361ffa7c79d71a2d92951251a52f[m[33m ([m[1;32mfooter[m[33m)[m
+Author: Navajyothsna <navajyothsna.r@gmail.com>
+Date:   Wed Mar 14 15:48:56 2018 +0800
+
+    add footer content
+
+[33mcommit f79d3324a1d350300657b7808ed413253c8bce5a[m
+Author: Navajyothsna <navajyothsna.r@gmail.com>
+Date:   Wed Mar 14 15:45:14 2018 +0800
+
+    add aside content
+
+[33mcommit e9ddd38fedb31b6eaf5a5aaba1245d2df67f0ae1[m
+Author: Navajyothsna <navajyothsna.r@gmail.com>
+Date:   Wed Mar 14 15:35:38 2018 +0800
+
+    add aside content
+
+[33mcommit 27721f5621e04e859b1c2319198f1f1c0b26b037[m
+Author: Navajyothsna <navajyothsna.r@gmail.com>
+Date:   Wed Mar 14 15:25:02 2018 +0800
+
+    add the styling to header
+
+[33mcommit 95416a08cc752833be3266a953626333917ae290[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: Navajyothsna <navajyothsna.r@gmail.com>
+Date:   Wed Mar 14 14:23:35 2018 +0800
+
+    add the header
+
+[33mcommit 300ea240bdf98a0175336e90c4fdbbc3504ccdbc[m
+Author: Navajyothsna <navajyothsna.r@gmail.com>
+Date:   Wed Mar 14 14:16:56 2018 +0800
+
+    initial commit
